@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orenji2
-- 👀 I’m interested in Porting ROMS xd
-- 🌱 I’m currently learning C++, Java, ASM
+- 👀 I’m interested in Porting ROMS, 3D Modelling and Game Development xd
+- 🌱 I’m currently learning C++, Java, ASM and Unity Game Development
 - 💞️ I’m looking to collaborate on LICH ROM
 - 📫 How to reach me: Telegram @orenji1
 - 😄 Pronouns: He/him
